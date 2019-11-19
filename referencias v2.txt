@@ -1,0 +1,9 @@
+7 - https://www.geeksforgeeks.org/software-engineering-cocomo-model/
+
+8 - http://www.ic.uff.br/~bianca/engsoft2/index_arquivos/Aula21-EngSoft2.pdf
+
+9 - https://www.devmedia.com.br/cmmi-uma-visao-geral/25425
+	https://www.devmedia.com.br/cmmi-capability-maturity-model-integration/3530
+	http://fabrica.ms.senac.br/2013/06/o-que-e-cmmi/
+
+10 - https://blogdaqualidade.com.br/o-que-e-o-mps-br/
